@@ -1,0 +1,6 @@
+@TheBeautifulGame_HostAddress = http://localhost:5087
+
+GET {{TheBeautifulGame_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
